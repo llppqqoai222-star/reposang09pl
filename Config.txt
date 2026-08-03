@@ -1,0 +1,6 @@
+Cores = 8
+UseLastCores = true
+Priority = normal
+MaxRamMB = 1500
+LogToFile = true
+IntervalSeconds = 3
